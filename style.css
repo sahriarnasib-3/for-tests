@@ -1,0 +1,16 @@
+.top-banner {
+    background-image: url(greenLeaf.jpg);
+    height: 100vh;
+    margin: 0;
+    /* display: flex; */
+    color: white;
+    text-align: center;
+}
+
+.top-banner o {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
